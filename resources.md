@@ -1,9 +1,9 @@
 # Coding 101 for Product Managers
 
 #### Tools
-[Download Google Chrome HERE](https://www.google.com/chrome/browser/desktop/index.html?brand=CHBD&gclid=Cj0KEQiA9ZXBBRC29cPdu7yuvrQBEiQAhyQZ9A8Gkei2lG33_Ba4XuylJlT_TjITSP4mVHhwyHc20agaAiZ-8P8HAQ)
-[Download SublimeText3 HERE](https://www.sublimetext.com/3)
-[Join GitHub HERE](https://.github.com)
+- [Download Google Chrome HERE](https://www.google.com/chrome/browser/desktop/index.html?brand=CHBD&gclid=Cj0KEQiA9ZXBBRC29cPdu7yuvrQBEiQAhyQZ9A8Gkei2lG33_Ba4XuylJlT_TjITSP4mVHhwyHc20agaAiZ-8P8HAQ)
+- [Download SublimeText3 HERE](https://www.sublimetext.com/3)
+- [Join GitHub HERE](https://.github.com)
 
 
 
