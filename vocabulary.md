@@ -20,16 +20,19 @@ C++ | |
 cloud migration | |
 CSS | Cascading Style Sheet |
 data center | |
+declarative programming | |
 DOM | Document Object Model |
 elastic search | |
 first meaningful paint | |
 Framework | |
+functional programming | | 
 git | |
 GitHub | |
 HTML | HyperText Markup Language |
 HTTP | HyperText Transfer Protocol |
 hybrid web development | a combination of universal and native development | 
 iframe | |
+imperative programming | |
 iOS | |
 Java | |
 Java Server Pages (JSP) | |
@@ -47,6 +50,7 @@ Obj-C | Objective-C programming language for iOS development |
 OOP | Object-Oriented Programming | 
 Ocaml | |
 predictive learning | |
+procedural programming | |
 progressive development | | 
 Prolog | |
 Python | |
