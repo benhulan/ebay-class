@@ -8,7 +8,7 @@ Word | Definition | Link / Source
 ---- | ---- | ----
 adaptive HTML | | 
 AMP | |
-Android | |
+Android | An operating system by Google for stuff | [link goes here]()
 API | Application Program Interface. "A good API makes it easier to develop a program by providing all the building blocks. A programmer then puts the blocks together." | [API on webopedia](http://www.webopedia.com/TERM/A/API.html)
 architect | |
 artificial intelligence / AI | |
