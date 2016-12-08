@@ -54,7 +54,7 @@ procedural programming | |
 progressive development | | 
 Prolog | |
 Python | |
-QA testing | | 
+QA testing | Quality Assurance -- a system of stress testing software to make sure the deployment will function as expected under any circumstances | [Link to Software QA definition](http://www.softwareqatest.com/qatfaq1.html#FAQ1_1)
 responsive web | |
 SDK | Software Developer's Kit |
 service worker | | 
