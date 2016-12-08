@@ -55,7 +55,7 @@ procedural programming | |
 progressive development | usually called progressive enhancement, also mobile-first, the philosophy is basically to start with the bare essentials and add features, as needed (see graceful degredation) | 
 Prolog | |
 Python | an object-oriented programming language. popular app development frameworks in Python include Django, Flask and others |
-QA testing | Quality Assurance testing. In software development, this involves generating best- and worst-case scenario tests and running the code to make sure you get the expected outcomes. | 
+QA testing | Quality Assurance testing. In software development, this involves generating best- and worst-case scenario tests and running the code to make sure you get the expected outcomes. | [Link to Software QA definition](http://www.softwareqatest.com/qatfaq1.html#FAQ1_1)
 responsive web | responsive websites should look good on any device, no matter the screen width. This link has collections of patterns and resources to build responsive websites | [one designer's resources for responsive design](http://bradfrost.github.io/this-is-responsive/)
 SDK | Software Developer's Kit |
 service worker | | 
